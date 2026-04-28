@@ -47,7 +47,7 @@ Le modèle Prophet capture :
 
 ---
 
-## 💡 Ce que j'ai appris
+## Ce que j'ai appris
 
 -  **Gestion de données réelles** avec 84% de valeurs manquantes
 - **Comparaison méthodique** de 7 algorithmes de régression
