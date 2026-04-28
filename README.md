@@ -1,6 +1,7 @@
 ---
 
-## 🚀 Comment lancer le projet
+## Comment lancer le projet
+
 ### 1. Cloner le repo
 ```bash
 git clone https://github.com/arnold-leumale/nft-bayc-price-prediction.git
@@ -38,29 +39,29 @@ jupyter notebook notebooks/
 3. **Évaluation** — RMSE et MAE
 4. **Validation** — comparaison prédictions vs valeurs réelles
 
-### 📊 Analyse temporelle (Prophet)
+### Analyse temporelle (Prophet)
 Le modèle Prophet capture :
-- 📈 Les tendances long terme
-- 🔄 La saisonnalité hebdomadaire et annuelle
-- 🎯 Les intervalles de confiance à 95%
+- Les tendances long terme
+- La saisonnalité hebdomadaire et annuelle
+- Les intervalles de confiance à 95%
 
 ---
 
 ## 💡 Ce que j'ai appris
 
-- 🧹 **Gestion de données réelles** avec 84% de valeurs manquantes
-- 🤖 **Comparaison méthodique** de 7 algorithmes de régression
-- 📊 **Storytelling data** via Power BI pour communiquer les insights
-- ⏱️ **Modélisation temporelle** avec Prophet pour capturer les saisonnalités
-- 🔍 **Tests statistiques** (Pearson) pour valider les corrélations
+-  **Gestion de données réelles** avec 84% de valeurs manquantes
+- **Comparaison méthodique** de 7 algorithmes de régression
+- **Storytelling data** via Power BI pour communiquer les insights
+- **Modélisation temporelle** avec Prophet pour capturer les saisonnalités
+- **Tests statistiques** (Pearson) pour valider les corrélations
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
-- 📉 La RMSE reste élevée à cause de la **forte variance des prix** (de quelques dollars à 2.5M$)
-- 🎯 Les outliers (NFT exceptionnellement chers) impactent la précision
-- 🔄 Le modèle est entraîné sur des données 2021-2023 → à réentraîner pour usage actuel
+- La RMSE reste élevée à cause de la **forte variance des prix** (de quelques dollars à 2.5M$)
+- Les outliers (NFT exceptionnellement chers) impactent la précision
+-  Le modèle est entraîné sur des données 2021-2023 → à réentraîner pour usage actuel
 
 ---
 
@@ -84,7 +85,7 @@ Projet réalisé en groupe dans le cadre du MSc Data Science d'aivancity :
 
 ---
 
-## 📧 Me contacter
+##  Me contacter
 
 Arnold LEUMALE** — Data Analyst Junior  
 [LinkedIn](https://linkedin.com/in/viany-arnold-mbouyom-leumale-ba2b13214)  
