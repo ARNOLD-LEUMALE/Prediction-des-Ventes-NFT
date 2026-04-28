@@ -1,6 +1,5 @@
----
-
 ## Comment lancer le projet
+
 ### 1. Cloner le repo
 ```bash
 git clone https://github.com/arnold-leumale/nft-bayc-price-prediction.git
