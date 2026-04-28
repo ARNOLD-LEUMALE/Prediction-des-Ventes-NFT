@@ -20,7 +20,7 @@ jupyter notebook notebooks/
 
 ---
 
-## 🤖 Méthodologie ML
+##  Méthodologie ML
 
 ### Algorithmes testés
 | Modèle | Score Train | Score Test |
@@ -29,7 +29,7 @@ jupyter notebook notebooks/
 | Linear Regression | 0.75 | 0.83 |
 | Decision Tree | 1.00 | 0.84 |
 | Gradient Boosting | 0.92 | 0.89 |
-| **Random Forest** ⭐ | **0.98** | **0.89** |
+| **Random Forest**  | **0.98** | **0.89** |
 | Voting Regressor | 0.92 | 0.89 |
 | MLP Regressor | 0.23 | 0.12 |
 
